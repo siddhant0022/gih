@@ -16,6 +16,7 @@ import SponsersPartners from "./Components/SponsersPartners";
 import SpeakerJudges from "./Components/SpeakerJudges";
 import Mentors from "./Components/Mentors";
 import CommunityPartners from "./Components/CommunityPartners";
+import Faqs from "./Components/Faqs";
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
         <Experience />
         {/* <Projects /> */}
         <Contact />
+        <Faqs />
         <Footer />
       </div>
     </div>
